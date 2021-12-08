@@ -1,0 +1,2 @@
+# Matematiksel-lemler
+Matematiksel İşlemler
